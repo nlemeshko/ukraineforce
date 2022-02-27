@@ -24,9 +24,9 @@ Example:
 
 ### Alternative usage
 
-```git clone https://github.com/nlemeshko/ukraineforce.git```
-```Change headers and body```
-```docker run --rm -d mdsn/ukraineforce ./udda udda [URL] POST 20 body.json headers.json```
+- ```git clone https://github.com/nlemeshko/ukraineforce.git```
+- ```Change headers and body```
+- ```docker run --rm -d mdsn/ukraineforce ./udda udda [URL] POST 20 body.json headers.json```
 
 ### Fork usage:
 
