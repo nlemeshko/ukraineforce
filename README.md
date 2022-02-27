@@ -1,6 +1,6 @@
 #Ukraine force DDOS
 
-[![docker](https://github.com/nlemeshko/ukrineforce/actions/workflows/docker.yml/badge.svg)](https://github.com/nlemeshko/ukraineforce/actions/workflows/docker.yml)
+[![docker](https://github.com/nlemeshko/ukraineforce/actions/workflows/docker.yaml/badge.svg)](https://github.com/nlemeshko/ukraineforce/actions/workflows/docker.yaml)
 
 ### Variables:
 
